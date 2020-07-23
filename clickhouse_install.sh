@@ -11,7 +11,7 @@
 # ${5} startportrelica  replica1 8601 8602 8603 8604 8605 relica_n=(n-1)*10+reliace1
 
 
-OSS="http://storage.jd.local/ssoftware/"
+OSS="http://storage/"
 ROOT=`pwd`
 
 if [ ! -d "$ROOT" ]
